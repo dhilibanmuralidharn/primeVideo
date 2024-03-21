@@ -1,0 +1,12 @@
+.slider-container {
+  background-color: #231f20;
+  height: 100vh;
+  overflow: auto;
+}
+.prime-img {
+  width: 100%;
+  height: 40vh;
+}
+.sliding-container {
+  padding: 40px;
+}
